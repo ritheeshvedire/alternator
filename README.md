@@ -1,5 +1,5 @@
 # Alternator iterator
-Short C++ program to implemennt an "alternator" class that takes as input - two containers ( with each supporting a forward iterator) and alternatively returns an element for each container.
+Short C++ program to implemennt an "alternator" class that takes as input - two containers ( with each supporting a forward iterator) and alternatively returns an element from each container.
 
 ## Usage
 ```
